@@ -1,0 +1,35 @@
+.card {
+    padding: 20px;
+    margin: 20px;
+}
+
+h4 {
+    margin-bottom: 10px;
+}
+
+input {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.p-button-rounded {
+    margin-top: 10px;
+}
+.custom-header {
+    display: flex;
+    align-items: center;
+}
+.custom-chevron-icon {
+    color: #ffffff;
+    margin-left: 8px; 
+}
+.custom-chevron-icon .p-button {
+    background: #ffffff; 
+    border: none; 
+}
+.custom-chevron-icon .p-button-icon {
+    color: #ffffff; 
+}
+.p-datatable .p-sortable-column .p-sortable-column-icon {
+    display: none;
+}
